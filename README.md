@@ -6,7 +6,7 @@ This repository includes codes, trained model samples and data samples to succes
 
       training data samples, from 30x30 lattice spin exact-diagonalization simulations.
             
-2. *training*:
+2. *training_example*:
 
       this folder includes codes for training a only one possible jumping direction model. The error decreasing can be illustrated with the training data included in this folder. Go to this folder and do:
       
