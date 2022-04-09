@@ -19,7 +19,7 @@ LAT = lattice_class(L)
 SYS = SYSTEM()
 SYS.setinit()
 AllMod = AM()
-path = "/scratch/sz8ea/FK/ML_RW/largesize/150/T0.05/more_sim/"
+path = "./"
 fout = open(path+"config"+str(sys.argv[1])+".csv",'w')
 np.savetxt(fout,SYS.W1,fmt="%d",delimiter=',')
 
