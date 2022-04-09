@@ -26,7 +26,7 @@ This repository includes codes, trained model samples and data samples to succes
 
       the calculated f-electron configurations will to saved to root folder with name "config(filename).csv". Each row corresponds to empty or occupied sites in 1 dimension for a time step. 
       
- 5. *data_sample*:
+ 5. *data_example*:
       
       this folder include simulation result from machine learning or exact-diagonalization that is used to plot FIG. 1, FIG. 2, FIG.3 and FIG. 4 in the paper. 
       
